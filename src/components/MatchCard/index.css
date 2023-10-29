@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.Won{
+    color: green;
+}
+.Lost{
+    color: red;
+}
+.lg{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    width: 30%;
+    margin: 2%;
+    background-color: blue;
+}
+.img2{
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    height: 75px;
+    width: 75px;
+}

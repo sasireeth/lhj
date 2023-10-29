@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.cc1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  color: white;
+background-color: blue;
+}
+.co1 {
+  text-align: left;
+}
+.co2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.co3 {
+  text-align: right;
+}
+.img1{
+    height: 50px;
+    width: 50px;
+}

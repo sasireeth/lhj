@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.kst{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
