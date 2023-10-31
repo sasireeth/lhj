@@ -2,7 +2,7 @@ import './index.css'
 import TeamCard from '../TeamCard'
 
 const Home = () => (
-  <div className="bg" data-testid="loader">
+  <div className="bg" testid="loader">
     <div className="bg1">
       <img
         src="https://assets.ccbp.in/frontend/react-js/ipl-logo-img.png"
