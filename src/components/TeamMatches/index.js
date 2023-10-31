@@ -59,7 +59,7 @@ class TeamMatches extends Component {
     const {isLoading, image, latest, recent} = this.state
     console.log(latest)
     return (
-      <div data-testid="loader">
+      <div testid="loader">
         {isLoading ? (
           <Loader type="TailSpin" color="#00BFFF" height={50} width={50} />
         ) : (
